@@ -1,5 +1,5 @@
 
-# 🖧 Client–Server Communication & Producer–Consumer (Python)
+# Client–Server Communication & Producer–Consumer (Python)
 
 This repository contains two mini‑projects implemented in Python:
 
@@ -30,7 +30,7 @@ Client-Server-communication/
 
 ---
 
-# 🚀 How to Run the Client–Server Project
+# How to Run the Client–Server Project
 
 ### 1️⃣ Start the Server
 ```
@@ -50,7 +50,7 @@ The client connects to the server and exchanges messages defined in `LAB2_Header
 
 ---
 
-# 🏭 How to Run the Producer–Consumer Project
+# How to Run the Producer–Consumer Project
 
 ### 1️⃣ Open two terminals.
 
@@ -75,14 +75,5 @@ The consumer reads and processes the data.
 
 Install Python 3.10+
 
----
-
-# 📘 Summary
-
-This repository demonstrates:
-✔ Basic TCP/IP networking (client–server model)  
-✔ Socket programming in Python  
-✔ Inter‑process communication  
-✔ Producer–consumer synchronization concepts  
 
 
